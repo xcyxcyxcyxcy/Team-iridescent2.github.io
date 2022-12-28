@@ -25,4 +25,5 @@ fields:
   label: description
   description: Meta description
 pages:
+- content/blog/more-detail-about-some-feature-we-found-particularly-satisfying.md
 - content/blog/reflections-on-our-design-and-components-parts-we-selected.md
