@@ -10,7 +10,7 @@ tags: []
 description: This is meta description
 
 ---
-> > **Components used**
+**Components used**
 
 Adafruit Feather RP2040
 
@@ -35,3 +35,5 @@ Also, we connected the speaker and the Circuit Playground Express using a relay 
                         Circuit Playground with Adafruit Speaker
 
 Because the speaker is controlled by Circuit Playground express, in this way we can use Microcontroller to control the speaker.
+
+**Block diagrams:**
