@@ -31,3 +31,7 @@ Also, we connected the speaker and the Circuit Playground Express using a relay 
 ![](/images/screenshot-2022-12-28-at-16-02-29.png "Cirtcuitplayground with System working flow")
 
 ![](/images/screenshot-2022-12-28-at-16-10-36.png)![](/images/screenshot-2022-12-28-at-16-13-26.png)
+
+                        Circuit Playground with Adafruit Speaker
+
+Because the speaker is controlled by Circuit Playground express, in this way we can use Microcontroller to control the speaker.
