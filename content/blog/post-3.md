@@ -3,8 +3,7 @@ title: Significant Issues to trouble shoot and solving ways
 date: 2022-12-22T05:40:24-05:00
 image: ''
 author: []
-categories:
-- lifestyle
+categories: []
 tags: []
 description: This is meta description
 
