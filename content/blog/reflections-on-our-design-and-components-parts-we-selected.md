@@ -3,7 +3,6 @@ author = []
 categories = []
 date = 2022-12-22T05:00:00Z
 description = ""
-draft = true
 image = ""
 tags = []
 title = "Reflections on our design and components/parts we selected"
