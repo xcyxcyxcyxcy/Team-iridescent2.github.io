@@ -39,7 +39,7 @@ heading = "In this project, we aim to create an interesting Doorbell system. We 
 [params.call_to_action]
 button_label = "Contact Us"
 button_url = "contact"
-content = "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis"
+content = "Contact us by email for more information"
 enable = true
 title = "Contact us for more information."
 [params.footer]
