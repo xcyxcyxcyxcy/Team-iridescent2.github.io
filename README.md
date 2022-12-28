@@ -2,7 +2,7 @@
 
 [Twenty Twenty theme](https://github.com/themefisher/twenty-twenty-hugo) is developed by Themefisher.
 
-[Live Preview](https://hugo-twenty-twenty-forestry.vercel.app/)
+[Live Preview](https://8wx1f4-f6ckyda.instant.forestry.io//)
 
 ![Homepage preview](./images/homepage.png)
 
