@@ -19,3 +19,5 @@ The main idea is using the Pico4ML’s camera to provide the face recognition. U
 After the midpoint checkpoint, we swapped out the camera function with the expectation that we could implement a recording and replay function for an interactive effect. However, due to time constraints, we did not complete the recording function with the microphone, so we finally discarded this feature. We should have talked more with the teacher in advance.
 
 Now we implement the function of a multifunctional doorbell. The speaker and the display will only respond if some requirements set are met. At the same time the time to trigger the distance sensor will be uploaded to the Internet through the wifi module to stay to see when someone has come to play.
+
+![](/images/screenshot-2022-12-28-at-16-27-12.png)
