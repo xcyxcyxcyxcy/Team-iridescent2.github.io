@@ -4,8 +4,7 @@ date: 2022-12-25T05:40:24-05:00
 image: "/images/screenshot-2022-12-28-at-15-53-43.png"
 author:
 - group8
-categories:
-- Introduction
+categories: []
 tags: []
 description: This is meta description
 
