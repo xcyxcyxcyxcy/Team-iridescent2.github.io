@@ -1,7 +1,7 @@
 ---
 title: A project showcase
 date: 2022-12-25T05:40:24-05:00
-image: images/2020-three-quarters-1.png
+image: "/images/screenshot-2022-12-28-at-15-51-11.png"
 author:
 - Admin
 categories:
