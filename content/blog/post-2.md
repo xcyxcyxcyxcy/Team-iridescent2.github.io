@@ -20,4 +20,4 @@ After the midpoint checkpoint, we swapped out the camera function with the expec
 
 Now we implement the function of a multifunctional doorbell. The speaker and the display will only respond if some requirements set are met. At the same time the time to trigger the distance sensor will be uploaded to the Internet through the wifi module to stay to see when someone has come to play.
 
-![](/images/screenshot-2022-12-28-at-16-27-12.png)ujdjhgj
+![](/images/screenshot-2022-12-28-at-16-27-12.png)
