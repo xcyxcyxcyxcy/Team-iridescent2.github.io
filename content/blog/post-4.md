@@ -37,3 +37,5 @@ Also, we connected the speaker and the Circuit Playground Express using a relay 
 Because the speaker is controlled by Circuit Playground express, in this way we can use Microcontroller to control the speaker.
 
 **Block diagrams:**
+
+![](/images/screenshot-2022-12-28-at-16-15-40.png)
