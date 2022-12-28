@@ -28,4 +28,4 @@ Several cables
 
 Also, we connected the speaker and the Circuit Playground Express using a relay with this system above like this
 
-![](/images/screenshot-2022-12-28-at-16-02-29.png)
+![](/images/screenshot-2022-12-28-at-16-02-29.png "Cirtcuitplayground with System working flow")
