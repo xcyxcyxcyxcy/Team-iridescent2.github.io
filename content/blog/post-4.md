@@ -5,7 +5,7 @@ image: "/images/screenshot-2022-12-28-at-15-53-43.png"
 author:
 - group8
 categories:
-- tour
+- Introduction
 tags: []
 description: This is meta description
 
