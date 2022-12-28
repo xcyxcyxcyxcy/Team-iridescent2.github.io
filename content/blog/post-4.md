@@ -12,8 +12,9 @@ tags:
 description: This is meta description
 
 ---
-**components used:  
-**Adafruit Feather RP2040
+h1 Components used
+
+Adafruit Feather RP2040
 
 Airlift wifi module
 
