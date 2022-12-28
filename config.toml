@@ -7,7 +7,7 @@ languageName = "En"
 paginate = "6"
 summaryLength = "10"
 theme = "github.com/themefisher/twenty-twenty-hugo"
-title = "Interesting Doorbell System"
+title = "ESE5190 Final Project"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.desktop]]
