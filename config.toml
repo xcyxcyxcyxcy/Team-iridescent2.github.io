@@ -44,7 +44,7 @@ enable = true
 title = "Contact us for more information."
 [params.footer]
 address = "University of Pennsylvania Philadelphia, PA 19104 University operator: 215-898-5000"
-content = "This may be a good place to introduce yourself and your site or include some credits."
+content = "This websites is for the ESE5190 Final Project introduction information, any rights reserved"
 copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com) ported from [WordPress Twenty Twenty](https://github.com/WordPress/twentytwenty)"
 hours = "Monday–Friday: 9:00AM–5:00PM <br> Saturday & Sunday: 11:00AM–3:00PM"
 title = "About This Site"
