@@ -55,3 +55,7 @@ Pros:
 Cons:
 
 1: You should add a filter to improve its sound.
+
+**Other design we want to use next time:**
+
+We want to use the camera module in the Pico4ML microcontroller to achieve people detection. This function may contain some machine learning knowledge. Then the system will capture the image automatically, then store it and also, we want to record audio and replay or upload online somewhere. To make it possible, the main task is trying to make the wifi model can upload the image data or audio data directly.
