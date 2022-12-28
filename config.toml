@@ -35,7 +35,7 @@ description = "This is meta description"
 heading = "Interesting Doorbell System"
 image = "images/2020-landscape-1-2.png"
 [params.blog]
-heading = "The premier destination for modern art in Northern Sweden. Open from 10 AM to 6 PM every day during the summer months."
+heading = "In this project, we aim to create an interesting Doorbell system. We use the Adafruit Feather RP2040 as the main microcontroller. This system can provide remote control, visual information, audio information with users."
 [params.call_to_action]
 button_label = "Contact Us"
 button_url = "contact"
