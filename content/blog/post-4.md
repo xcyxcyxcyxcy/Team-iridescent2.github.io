@@ -12,7 +12,6 @@ tags:
 description: This is meta description
 
 ---
-  
 **components used:  
 **Adafruit Feather RP2040
 
@@ -22,14 +21,8 @@ APDS 9960 sensor
 
 ST7735R
 
-# Adafruit STEMMA Speaker
+Adafruit STEMMA Speaker Relay
 
-Relay
-
-# Circuit Playground Express
+Cirtuit Playground Express
 
 Several cables
-
-**Assembly details:**
-
-Wiring diagram：
