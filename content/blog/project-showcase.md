@@ -3,7 +3,6 @@ author = []
 categories = []
 date = ""
 description = ""
-draft = true
 image = "/images/screenshot-2022-12-28-at-15-51-11.png"
 tags = []
 title = "Project showcase"
