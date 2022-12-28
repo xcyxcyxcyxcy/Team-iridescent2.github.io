@@ -12,7 +12,7 @@ tags:
 description: This is meta description
 
 ---
-h1 Components used
+Components used
 
 Adafruit Feather RP2040
 
