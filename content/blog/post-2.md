@@ -1,18 +1,15 @@
 ---
-title: "Theatre of Operations"
-date: 2020-03-14T15:40:24+06:00
-image : "images/2020-three-quarters-3.png"
-# author
-author : ["Admin"]
-# categories
-categories: ["operations"]
-tage: ["tags"]
-# meta description
-description: "This is meta description"
-# save as draft
-draft: false
+title: Narrative Overview of the Project's Development
+date: 2022-12-22T05:40:24-05:00
+image: ''
+author:
+- Group8
+categories: []
+tage:
+- tags
+description: This is meta description
+
 ---
+At the beginning we intend to make an anti-theft system. The specific function is to turn on the camera and perform face recognition when an object is detected close to the camera, and if the recognition result is judged to be a person, an alarm is issued and a screenshot is uploaded to the Internet. But we are stuck on how to capture images and upload them.
 
-Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.
-
-Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.
+The main idea is using the Pico4ML’s camera to provide the face recognition. Unfortunately, we meet some problems when using the Pico4ML and the wifi model. We can’t capture the photos, store photos and then upload the photos to users via wifi. Because the Pico4ML only have 264KB on-chip SRAM and 2MB on board flash. It means we need additional storage devices to store the photos.
