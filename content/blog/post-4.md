@@ -6,9 +6,7 @@ author:
 - group8
 categories:
 - tour
-tags:
-- tour
-- visit
+tags: []
 description: This is meta description
 
 ---
@@ -28,6 +26,6 @@ Cirtuit Playground Express
 
 Several cables
 
-Also, we connected the speaker and the Circuit Playground Express using a relay with this system above like this:
+Also, we connected the speaker and the Circuit Playground Express using a relay with this system above like this
 
-![](https://lh6.googleusercontent.com/lYx64nFOJJQMLSpClGFzncLc-CxyTl1pH9Ra6nOo0G_c-R8hX6LMS5MqceaQLKbACHS7jt0QBw8bdIpZNxdpV-tHe9bGqQLZ3fH4wHiC_uA82Q5s4kH52zZilgphcQYnfrmMjyJ4-Xqj7MihOHVNqQFfAqDds2dP4OcOve5ZJdXgAyAMXJ1yuTA "Cirtuit Playground with system" =528x331)
+![](/images/screenshot-2022-12-28-at-16-02-29.png)
