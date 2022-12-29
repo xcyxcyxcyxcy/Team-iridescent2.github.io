@@ -7,7 +7,7 @@ languageName = "En"
 paginate = "6"
 summaryLength = "10"
 theme = "github.com/themefisher/twenty-twenty-hugo"
-title = "ESE5190 Final Project"
+title = "ESE5190 Final Project Fall2022"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.desktop]]
