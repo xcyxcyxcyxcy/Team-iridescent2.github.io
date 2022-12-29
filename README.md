@@ -50,8 +50,10 @@ There are some images and video of our whole system:
 <div align=center><img width="600" height="400" src="https://github.com/xcyxcyxcyxcy/Team-iridescent.github.io/blob/main/image/5031671205774_.pic.jpg"/></div>
 <div align=center><img width="500" height="300" src="https://github.com/xcyxcyxcyxcy/Team-iridescent.github.io/blob/main/image/截屏2022-12-28%20下午4.48.25.png"/></div>
 Because the speaker is controlled by Circuit Playground express, in this way we can use Microcontroller to control the speaker. 
+
 ### Block diagrams
 <div align=center><img width="800" height="400" src="https://github.com/xcyxcyxcyxcy/Team-iridescent.github.io/blob/main/image/图片%201.png"/></div>
+
 ### Description of your RP2040 dev environment:
 We use Circuit Python language and Mu editor to finish our code. It is easier to make some functions code working together on the same microcontroller.
 
