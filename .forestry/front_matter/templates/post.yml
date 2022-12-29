@@ -25,6 +25,7 @@ fields:
   label: description
   description: Meta description
 pages:
+- content/blog/1.html
 - content/blog/more-detail-about-some-feature-we-found-particularly-satisfying.md
 - content/blog/more-detail-about-some-feature-we-found-particularly-satisfying.md
 - content/blog/narrative-overview-of-the-projects-development-and-solving-ways.md
