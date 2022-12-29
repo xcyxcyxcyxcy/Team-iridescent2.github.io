@@ -4,17 +4,11 @@ categories = []
 date = 2022-12-22T05:00:00Z
 description = ""
 draft = true
-image = "/images/screenshot-2022-12-28-at-15-51-11.png"
+image = "/images/screenshot-2022-12-28-at-19-58-14.png"
 tags = []
-title = "Project showcase-(copy)"
+title = "Any Significant Issues to troubleshoot and solving ways"
 
 +++
-In this project, we aim to create an interesting Doorbell system. We use the Adafruit Feather RP2040 as the main microcontroller. This system can provide remote control, visual information, audio information with users.
+One of the problems we encountered was how to implement two devices to communicate with the microcontroller at the same time. REPL showed the problem of “SCK in use“, so we tried using two different SPI interfaces but still had the same problem. Finally we used CS to select different devices, the MOSI and MISO of both devices are connected together.
 
-In our desired scenes, there would be a door to distinguish the home and outside.
-
-On the outside, there is a sensor, a Circuit playground microcontroller has been installed. When the sensor APDS9960 detects something below 40 cm, the system will start to work and send the distance and warning messages to the owners via the WIFI, provided by the Airlift wifi mode, the user can read the messages from the websites on the phone.
-
-In the home, there would be a ST7735R LCD screen, Adafruit STEMMA speaker installed. If some people want to visit the home, the speaker will power on when the sensor detects something, the visitor will shake the Playground as the doorbell, then the speaker will begin to play some audio and the LCD will display some pictures to give some messages to the owner.[1487.MP4](/images/1487.MP4 "1487.MP4")
-
-![](/images/1487-2.GIF)
+At first when we used the ultrasonic distance detector, we tried to combine it with the camera code in order to realize that we could trigger the camera with distance detection. However, we had a problem with the loop, and it took several days for us to debug it, but sadly we couldn't solve the problem that it could only loop once. Later due to risk reduction, we gave up.
