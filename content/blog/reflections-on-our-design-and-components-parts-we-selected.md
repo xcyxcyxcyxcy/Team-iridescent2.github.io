@@ -3,7 +3,7 @@ author = []
 categories = []
 date = 2022-12-22T05:00:00Z
 description = ""
-image = "/images/screenshot-2022-12-28-at-16-21-08.png"
+image = "/images/screenshot-2022-12-28-at-19-12-42.png"
 tags = []
 title = "Reflections on our design and components/parts we selected"
 
