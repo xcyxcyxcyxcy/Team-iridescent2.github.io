@@ -1,9 +1,9 @@
 +++
 author = []
 categories = []
-date = ""
+date = 2022-12-22T05:00:00Z
 description = ""
-image = ""
+image = "/images/wechatimg961.jpeg"
 tags = []
 title = "Narrative overview of the projects development and solving ways"
 
