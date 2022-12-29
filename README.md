@@ -1,7 +1,7 @@
 # Interesting Doorbell System
 
 
-[Live Preview](https://8wx1f4-f6ckyda.instant.forestry.io//)
+[Live Preview](https://8wx1f4-f6ckyda.instant.forestry.io/)
 
 
 
