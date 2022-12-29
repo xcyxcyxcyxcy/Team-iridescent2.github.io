@@ -8,8 +8,8 @@ tags = []
 title = "Project Instructions"
 
 +++
-\**components used:  
-\**Adafruit Feather RP2040
+**components used:**  
+Adafruit Feather RP2040
 
 Airlift wifi module
 
@@ -193,4 +193,3 @@ Because the speaker is controlled by Circuit Playground express, in this way we 
                 received_data = io.receive_data(distance_feed["key"])
                 print("Data from distance feed: ", received_data["value"])
                 time.sleep(0.01)
-    
