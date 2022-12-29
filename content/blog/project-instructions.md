@@ -123,16 +123,12 @@ Because the speaker is controlled by Circuit Playground express, in this way we 
     # Initialize an Adafruit IO HTTP API object
     io = IO_HTTP(aio_username, aio_key, requests)
     
-    
-    
     try:
         # Get the 'temperature' feed from Adafruit IO
         distance_feed = io.get_feed("distance")
     except AdafruitIO_RequestError:
         # If no 'temperature' feed exists, create one
         distance_feed = io.create_new_feed("distance")
-    
-    
     
     # Open the file
     with open("/567.bmp", "rb") as bitmap_file1:
@@ -179,10 +175,6 @@ Because the speaker is controlled by Circuit Playground express, in this way we 
         # Add the TileGrid to the Group
         group0.append(tile_grid0)
     
-        # Add the Group to the Display
-    
-    
-        # Loop forever so you can enjoy your image
         while True:
             gesture = sensor.proximity
             if gesture < 50:
