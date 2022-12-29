@@ -8,7 +8,7 @@ tags = []
 title = "Project Instructions"
 
 +++
-**components used:**  
+**Components used:**  
 Adafruit Feather RP2040
 
 Airlift wifi module
@@ -37,8 +37,8 @@ Because the speaker is controlled by Circuit Playground express, in this way we 
 
 ![](/images/screenshot-2022-12-28-at-16-15-40.png)
 
-\**Description of your RP2040 dev environment:  
-\**We use Circuit Python language and Mu editor to finish our code. It is easier to make some functions code work together on the same microcontroller.
+**Description of your RP2040 dev environment:**  
+We use Circuit Python language and Mu editor to finish our code. It is easier to make some functions code work together on the same microcontroller.
 
 **Code link:**
 
