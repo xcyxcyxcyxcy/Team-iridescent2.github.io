@@ -58,6 +58,9 @@ Because the speaker is controlled by Circuit Playground express, in this way we 
 ### Description of your RP2040 dev environment:
 We use Circuit Python language and Mu editor to finish our code. It is easier to make some functions code working together on the same microcontroller.
 
+### Code
+[code](https://github.com/Team-iridescent/Team-iridescent2.github.io/tree/master/code)
+
 ## Narrative overview of project development process
 At the beginning we intend to make an anti-theft system. The specific function is to turn on the camera and perform face recognition when an object is detected close to the camera, and if the recognition result is judged to be a person, an alarm is issued and a screenshot is uploaded to the Internet. But we are stuck on how to capture images and upload them.
 
