@@ -3,7 +3,7 @@ author = []
 categories = []
 date = 2022-12-22T05:00:00Z
 description = ""
-image = "/images/screenshot-2022-12-28-at-16-13-26.png"
+image = "/images/screenshot-2022-12-28-at-16-10-36.png"
 tags = []
 title = "Team Overview"
 
