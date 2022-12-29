@@ -3,7 +3,6 @@ author = []
 categories = []
 date = 2022-12-22T05:00:00Z
 description = ""
-draft = true
 image = "/images/screenshot-2022-12-28-at-19-58-14.png"
 tags = []
 title = "Any Significant Issues to troubleshoot and solving ways"
